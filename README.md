@@ -1,2 +1,2 @@
 # assemblyLineApp
-https://raw.githubusercontent.com/Seneca-345305/OOP-Project/main/assemblyline.jpg
+![](https://github.com/mahrokh-sadro/assemblyLineApp/blob/main/assemblyline.jpg)
